@@ -3,7 +3,7 @@ A recursive descent parser is a kind of top-down parser built from a set of mutu
 
 Thus the structure of the resulting program closely mirrors that of the grammar it recognizes. A predictive parser is a recursive descent parser that does not require backtracking. Predictive parsing is possible only for the class of LL grammars, which are the context-free grammars for which there exists some positive integer k that allows a recursive descent parser to decide which production to use by examining only the next k tokens of input.
 
-# Given Grammer
+# Given Grammar
 ```
 S -> eaf | eUT
 T -> e
