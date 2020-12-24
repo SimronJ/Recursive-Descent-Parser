@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MX4q9yBo0JjzAb1bdQDXFZ114SVuXV8DLjOhOKfcrJoZv1aR9qwJh3sYWCdHyKRe01KSV9hJM20uG/d3C0U1jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssimr\\source\\repos\\csci374prokec\\csci374prokec\\csci374prokec.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssimr\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
